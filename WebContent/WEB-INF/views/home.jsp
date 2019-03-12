@@ -7,7 +7,7 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>Welcome To jenkins</h1>
+	<h1>Welcome To jenkins!</h1>
 <h2> ${message}.</h2>
 <form action="user" method="post">
 		<input type="text" name="userName"><br> <input
